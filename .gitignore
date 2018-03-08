@@ -73,7 +73,6 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Unterschlupf/Unterschlupf.uproject
 Unterschlupf/Saved/
 Unterschlupf/Intermediate/
 Unterschlupf/Binaries/
